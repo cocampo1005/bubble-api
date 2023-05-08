@@ -1,0 +1,24 @@
+{
+  "name": "bubble-api",
+  "version": "1.0.0",
+  "description": "API Server End for Bubble",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cocampo1005/bubble-api.git"
+  },
+  "author": "Christian Ocampo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cocampo1005/bubble-api/issues"
+  },
+  "homepage": "https://github.com/cocampo1005/bubble-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
